@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header { 
+    padding: 100px;
+    font-family:serif;
+    background-color:rgb(12, 11, 11);
+}
+
+h1 {
+    padding: 20px;
+    color: rgb(180, 173, 173);
+    font-size: 60px;
+    Margin-left: 300px;
+
+}
+
+.sub-line {
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aliceblue;
+    font-size: 17px;
+    padding: 5px;
+    margin-left: 310px;
+}
+
+.line-break {
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aliceblue;
+    font-size: 15px;
+    margin-left: 490px;
+}
+
+body {
+    background-color:azure;
+}
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;  
+  color: rgb(11, 11, 124)
+}
+
+label {
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    max-height: 500px;
+    display: block;
+    align-items: center;
+    font: bold;
+}
+
+
+.image { 
+    height: 500px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+button {
+    margin-top: 5px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+button:hover {
+    color: darkblue;
+
+}
+
+textarea {
+    width: 500px;
+    height: 100px;
+}
+
+footer { 
+    padding: 20px;
+    background-color: white;
+    font-size: 11px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
